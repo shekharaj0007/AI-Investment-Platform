@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.db
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+*.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML / data
+*.pkl
+*.joblib
+models/checkpoints/
+data/raw/
+data/processed/
+*.faiss
+chroma/
+
+# Logs
+*.log
+logs/
+
+# Docker
+.docker/
+
+# Secrets
+.env.local
+.env.production
+credentials.json
