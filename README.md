@@ -19,61 +19,61 @@ Unlike typical student projects that stop at stock prediction or sentiment analy
 
 ## Executive Dashboard
 
-![Executive Dashboard](assets/executive-dashboard.png)
+![Executive Dashboard](assets/Executive%20Dashboard.png)
 
 ---
 
 ## AI Financial Copilot Dashboard
 
-![AI Financial Copilot Dashboard](assets/ai-financial-copilot-dashboard.png)
+![AI Financial Copilot Dashboard](assets/AI%20Financial%20Copilot%20Dashboard.png)
 
 ---
 
 ## Portfolio Manager
 
-![Portfolio Manager](assets/portfolio-manager.png)
+![Portfolio Manager](assets/Portfolio%20Manager.png)
 
 ---
 
 ## Portfolio Optimizer
 
-![Portfolio Optimizer](assets/portfolio-optimizer.png)
+![Portfolio Optimizer](assets/Portfolio%20Optimizer1.png)
 
 ---
 
 ## AI Investment Advisor
 
-![AI Investment Advisor](assets/ai-investment-advisor.png)
+![AI Investment Advisor](assets/AI%20Investment%20Advisor.png)
 
 ---
 
 ## AI Help Advisor
 
-![AI Help Advisor](assets/ai-help-advisor.png)
+![AI Help Advisor](assets/Ai%20help%20Advisor.png)
 
 ---
 
 ## Annual Report Reader
 
-![Annual Report Reader](assets/annual-report-reader.png)
+![Annual Report Reader](assets/Annual%20Report%20Reader.png)
 
 ---
 
-## News Sentiment Analysis
+## News Sentiment
 
-![News Sentiment](assets/news-sentiment.png)
+![News Sentiment](assets/News%20Sentiment.png)
 
 ---
 
 ## Risk Models
 
-![Risk Models](assets/risk-models.png)
+![Risk Models](assets/Risk%20Models.png)
 
 ---
 
 ## Revenue Forecasting
 
-![Revenue Forecasting](assets/revenue-forecasting.png)
+![Revenue Forecasting](assets/Revenue%20Forecasting.png)
 
 ## Architecture
 
